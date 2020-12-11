@@ -4,7 +4,6 @@
         "markdown"
     ],
     "emmet.includeLanguages": {
-        "javascript": "html",
-        "javascriptreact": "html"
+        "javascript": "javascriptreact"
     }
 }
